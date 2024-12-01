@@ -1,0 +1,53 @@
+body {
+    font-family: Arial,sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+
+}
+
+#warnabackground {
+    background-color: #ddd;
+    padding: 10px;
+    text-align: center;
+}
+#Header {
+    background-color: #6c7ae0;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 24px;
+
+}
+
+#contentTengah{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+#kontenkiri {
+    margin: 10px;
+}
+#kontenkanan {
+    margin: 10px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #6c7ae0;
+    color: wheat;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #5a68d0;
+
+}
+
+#hasil {
+    margin-top: 10px;
+    font-weight: bold;
+}
